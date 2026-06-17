@@ -17,6 +17,6 @@ cp new_workspace_creator/init_repo /bin
 
 ### USAGE
 ```bash
-./init_repo -n [PROJECT_NAME] -b [binary] or -a [archive] -t (option)
+./init_repo -n [PROJECT_NAME] -b [binary] or -a [archive] -t (optionnal)
 
 ```
